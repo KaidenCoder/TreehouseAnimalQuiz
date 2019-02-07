@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Which Animal are You?</string>
+    <string-array name="spinnerChoices">
+        <item>Strongly Agree</item>
+        <item>Agree</item>
+        <item>Neutral</item>
+        <item>Disagree</item>
+        <item>Strongly Disagree</item>
+    </string-array>
+</resources>
